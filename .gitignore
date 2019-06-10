@@ -86,6 +86,3 @@ src/test/speed_test/*.prof
 Icon?
 ehthumbs.db
 Thumbs.db
-
-#don't contain fail2ban
-fail2ban
